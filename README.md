@@ -7,5 +7,4 @@ A multiple regression method is used to clean local field potentials (LFP) from 
 
 # The following Matlab toolboxes are required:
 
-The authors would be grateful if published reports of research using this code (or a modified version, maintaining a significant portion of the original code) would cite the following article:
-Del Vecchio Del Vecchio, J.; Hanafi, I.; Pozzi, N.G.; Capetian, P.; Isaias, I.U.; Haufe, S.; Palmisano, C. Pallidal Recordings in Chronically Implanted Dystonic Patients: Mitigation of Tremor-Related Artifacts. Bioengineering 2023, 10, 476. https://doi.org/10.3390/bioengineering10040476
+The authors would be grateful if published reports of research using this code (or a modified version, maintaining a significant portion of the original code) would cite the following article: Del Vecchio Del Vecchio, J.; Hanafi, I.; Pozzi, N.G.; Capetian, P.; Isaias, I.U.; Haufe, S.; Palmisano, C. Pallidal Recordings in Chronically Implanted Dystonic Patients: Mitigation of Tremor-Related Artifacts. Bioengineering 2023, 10, 476. https://doi.org/10.3390/bioengineering10040476
